@@ -1,1 +1,1 @@
-Exercício do curso de JD do professor Gustavo Guanabara.
+Exercício do curso de JS do professor Gustavo Guanabara.
